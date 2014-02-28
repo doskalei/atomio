@@ -1,0 +1,24 @@
+extends layout
+
+block content
+	section#auth
+		span#close(title="close") x
+		div#login
+			a(tabindex="1") Connect with atomio
+			form
+				div#response
+				input(type="text",class="name", name="name",placeholder="Name", tabindex="2")
+				input(type="password",class="password",name="password",placeholder="Password", tabindex="3")
+			hr
+		div#check
+			a(tabindex="4") Create atomio
+			form
+				input(type="text",class="name", name="name",placeholder="Select a name", tabindex="5")
+				input(type="submit", id="checksubmit", value="GO", tabindex="6")
+		div#join
+			h2 Hi, i'm 
+			h3 Please insert email and password
+			form
+				input(type="text",class="email", name="email",placeholder="Email", tabindex="7")
+				input(type="password",class="password", name="password",placeholder="Password", tabindex="8")
+				input(type="submit", id="joinsubmit", value="SAVE", tabindex="9")

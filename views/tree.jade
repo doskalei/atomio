@@ -1,0 +1,50 @@
+!!!5
+html
+    head
+        title #{title}
+        meta(http-equiv="Content-Type", content="text/html; charset=utf-8")
+        meta(name="application-name", content="")
+        meta(name="author", content="Freekampus")
+        meta(name="description", content="")
+        meta(name="keywords", content="")
+        meta(name="googlebot", content="noarchive")
+        meta(name="robots", content="noindex,nofollow")
+        meta(name="googlebot", content="noindex,nofollow,nosnippet,noodp,noarchive,noimageindex")
+        meta(name="viewport", content="initial-scale=1.0,width=device-width,height=device-height,user-scalable=no")
+        meta(name="MobileOptimized", content="320")
+        meta(http-equiv="X-UA-Compatible", content="IE=edge,chrome=1")
+        meta(name="msapplication-tooltip", content="")
+        meta(name="msapplication-navbutton-color", content="")
+        meta(name="msapplication-window", content="width=1024;height=768")
+        link(rel='stylesheet', href='/css/main.css')
+        link(rel='stylesheet', href='/css/features/animations.css')
+    body
+        header
+            h1 atomio
+        article#main
+            canvas#canvas(width="800px", height="600px")
+            div#console
+                #modal
+                    #modal_content
+            block content
+        script(src="/js/libs/jquery-2.0.3.min.js")
+        script(src="/js/libs/jquery/jquery.easing.1.3.js")
+        script(src="/js/libs/jquery/jquery.browser.mobile.js")
+
+        script(src="/js/libs/browser.min.js")
+
+        script(src="/js/libs/history.js")
+        script(src="/js/libs/history/history.html4.js")
+        script(src="/js/libs/history/history.adapter.jquery.js")
+
+        script(src="/js/atomio/initialize.js")
+        script(src="/js/atomio/atomio.js")
+        script(src="/js/atomio/animations.js")
+        script(src="/js/views/index.js")
+
+        script(src="/js/libs/d3/d3.js")
+        script(src="/js/libs/d3/d3.geom.js")
+        script(src="/js/libs/d3/d3.layout.js")
+        script(src="/js/libs/d3/CodeFlower.js")
+        script(src="/js/libs/dataConverter.js")
+        script(src="/js/visual/tree.js")

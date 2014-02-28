@@ -1,0 +1,174 @@
+
+html
+  width 100%
+  height 100%
+  margin 0
+  padding 0
+  overflow hidden
+body
+  width 100%
+  height 100%
+  margin 0
+  padding 0
+  font-family 'Georgia'
+  background background-color
+  background-image url(/images/stars.png)
+  background-position 50% 50% !important
+  background-size cover !important
+  background-repeat no-repeat !important
+  color #444
+  overflow hidden
+
+header
+  position absolute
+  display block
+  width 100%
+  height 80px
+  top 0
+  left 0
+  color #fff
+  font-size 30px
+  line-height 80px
+  text-align center
+  background-color black
+  text-shadow 0px -1px 0px darken(#ddd, 30%)
+  z-index 150
+  h1
+    font-size 50px
+
+#main
+  position absolute
+  top 0
+  left 0
+  width 100%
+  height 100%
+  margin auto
+  overflow hidden
+  canvas
+    position absolute
+    display block
+    top 0
+    left 0
+    width 100%
+    height 100%
+    top 0
+    left 0
+    z-index 0
+  #console
+    position absolute
+    display none
+    width 100%
+    height 100%
+    top 0
+    left 0
+    background rgba(11,11,11,0.9)
+    z-index 100
+    &.fading
+      background rgba(11,11,11,0.3)
+      #modal
+        background none
+    #modal
+      position absolute
+      display table
+      width 300px
+      height 300px
+      top 80px
+      left 50%
+      margin auto
+      margin-left -160px
+      padding 20px 10px
+      text-align center
+      color #fff  
+      border-radius 5px
+      font-weight bold
+      -webkit-mask-image -webkit-linear-gradient(#000, rgba(0,0,0,.9))
+      -webkit-backface-visibility hidden
+      -moz-backface-visibility hidden
+      -ms-backface-visibility hidden
+      -o-backface-visibility hidden
+      backface-visibility hidden
+      -webkit-animation-duration .3s
+      -webkit-animation-delay 100ms
+      -webkit-animation-timing-function ease
+      -webkit-animation-fill-mode both
+      -moz-animation-duration 300ms
+      -moz-animation-delay 100ms
+      -moz-animation-timing-function ease
+      -moz-animation-fill-mode both
+      -ms-animation-duration 300ms
+      -ms-animation-delay 100ms
+      -ms-animation-timing-function ease
+      -ms-animation-fill-mode both
+      -o-animation-duration 300ms
+      -o-animation-delay 100ms
+      -o-animation-timing-function ease
+      -o-animation-fill-mode both
+      animation-duration 300ms
+      animation-delay 100ms
+      animation-timing-function ease
+      animation-fill-mode both
+      #modal_content
+        width 100%
+        height 100%
+        display table-cell
+        vertical-align middle
+        cursor pointer
+        &first-letter 
+          text-transform uppercase
+      .text
+        span
+          display block
+          font-size 30px
+          line-height 200%
+          &.fullwidth
+            position absolute
+            width 100%
+  #visualization
+    background rgba(0,0,0,0.5)
+    svg
+      display block
+      width auto
+      margin 80px auto 0
+  section
+    position absolute
+    width 100%
+    height 100%
+    overflow-y auto
+    #close
+      display block
+      position fixed
+      top 0
+      right 20px
+      width 40px
+      height 80px
+      font-size 24px
+      line-height 80px
+      color white
+      z-index 1000
+      font-family verdana
+      font-weight bold
+      cursor pointer
+      &:hover
+        color main-orange
+
+  #input
+    position absolute
+    display block
+    width 100% 
+    height 48px
+    margin 100px auto 0
+    background none
+    z-index 1000
+    border 0
+    outline 0
+    color #bbb
+    text-align center
+    line-height 48px
+    font-size 30px
+    &first-letter 
+      text-transform uppercase
+
+
+@media (max-width: 480px)
+  #visualization
+    margin-top 130px

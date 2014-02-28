@@ -1,0 +1,84 @@
+/var/node/views/layout.jade, line 25:
+Implicit textOnly for `script` and `style` is deprecated.  Use `script.` or `style.` instead.
+/var/node/views/layout.jade, line 91:
+Implicit textOnly for `script` and `style` is deprecated.  Use `script.` or `style.` instead.
+/var/node/views/layout.jade, line 25:
+Implicit textOnly for `script` and `style` is deprecated.  Use `script.` or `style.` instead.
+/var/node/views/layout.jade, line 91:
+Implicit textOnly for `script` and `style` is deprecated.  Use `script.` or `style.` instead.
+/var/node/views/layout.jade, line 25:
+Implicit textOnly for `script` and `style` is deprecated.  Use `script.` or `style.` instead.
+/var/node/views/layout.jade, line 91:
+Implicit textOnly for `script` and `style` is deprecated.  Use `script.` or `style.` instead.
+/var/node/views/layout.jade, line 25:
+Implicit textOnly for `script` and `style` is deprecated.  Use `script.` or `style.` instead.
+/var/node/views/layout.jade, line 91:
+Implicit textOnly for `script` and `style` is deprecated.  Use `script.` or `style.` instead.
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+    at errnoException (net.js:901:11)
+    at Server._listen2 (net.js:1039:14)
+    at listen (net.js:1061:10)
+    at Server.listen (net.js:1135:5)
+    at Function.app.listen (/var/node/node_modules/express/lib/application.js:535:24)
+    at Object.<anonymous> (/var/node/atomio.js:67:8)
+    at Module._compile (module.js:456:26)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+    at errnoException (net.js:901:11)
+    at Server._listen2 (net.js:1039:14)
+    at listen (net.js:1061:10)
+    at Server.listen (net.js:1135:5)
+    at Function.app.listen (/var/node/node_modules/express/lib/application.js:535:24)
+    at Object.<anonymous> (/var/node/atomio.js:67:8)
+    at Module._compile (module.js:456:26)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+    at errnoException (net.js:901:11)
+    at Server._listen2 (net.js:1039:14)
+    at listen (net.js:1061:10)
+    at Server.listen (net.js:1135:5)
+    at Function.app.listen (/var/node/node_modules/express/lib/application.js:535:24)
+    at Object.<anonymous> (/var/node/atomio.js:67:8)
+    at Module._compile (module.js:456:26)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+/var/node/views/layout.jade, line 25:
+Implicit textOnly for `script` and `style` is deprecated.  Use `script.` or `style.` instead.
+/var/node/views/layout.jade, line 91:
+Implicit textOnly for `script` and `style` is deprecated.  Use `script.` or `style.` instead.
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+    at errnoException (net.js:901:11)
+    at Server._listen2 (net.js:1039:14)
+    at listen (net.js:1061:10)
+    at Server.listen (net.js:1135:5)
+    at Function.app.listen (/var/node/node_modules/express/lib/application.js:535:24)
+    at Object.<anonymous> (/var/node/atomio.js:67:8)
+    at Module._compile (module.js:456:26)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+/var/node/views/layout.jade, line 25:
+Implicit textOnly for `script` and `style` is deprecated.  Use `script.` or `style.` instead.
+/var/node/views/layout.jade, line 91:
+Implicit textOnly for `script` and `style` is deprecated.  Use `script.` or `style.` instead.

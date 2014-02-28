@@ -1,0 +1,134 @@
+[90mGET / [32m200 [90m319ms - 1.75kb[0m
+[90mGET /css/features/animations.css [32m200 [90m7ms - 1.21kb[0m
+[90mGET /js/libs/jquery/jquery.easing.1.3.js [32m200 [90m7ms - 7.91kb[0m
+[90mGET /js/libs/jquery/jquery.browser.mobile.js [32m200 [90m7ms - 4.78kb[0m
+[90mGET /js/libs/browser.min.js [32m200 [90m7ms - 2.12kb[0m
+[90mGET /js/libs/jquery-2.0.3.min.js [32m200 [90m7ms - 81.65kb[0m
+[90mGET /css/main.css [32m200 [90m300ms - 7.32kb[0m
+[90mGET /js/libs/history.js [32m200 [90m2ms - 13.91kb[0m
+[90mGET /js/libs/history/history.html4.js [32m200 [90m1ms - 3.85kb[0m
+[90mGET /js/libs/history/history.adapter.jquery.js [32m200 [90m0ms - 433b[0m
+[90mGET /js/atomio/initialize.js [32m200 [90m1ms - 2.3kb[0m
+[90mGET /js/atomio/atomio.js [32m200 [90m1ms - 7.78kb[0m
+[90mGET /js/atomio/animations.js [32m200 [90m1ms - 612b[0m
+[90mGET /js/views/index.js [32m200 [90m1ms - 5.67kb[0m
+[90mGET /images/stars.png [32m200 [90m2ms - 90.71kb[0m
+[90mGET / [36m304 [90m418ms[0m
+[90mGET /js/libs/jquery-2.0.3.min.js [36m304 [90m5ms[0m
+[90mGET /js/libs/jquery/jquery.easing.1.3.js [36m304 [90m5ms[0m
+[90mGET /js/libs/jquery/jquery.browser.mobile.js [36m304 [90m4ms[0m
+[90mGET /js/libs/browser.min.js [36m304 [90m4ms[0m
+[90mGET /css/features/animations.css [36m304 [90m9ms[0m
+[90mGET /js/libs/history.js [36m304 [90m316ms[0m
+[90mGET /js/libs/history/history.html4.js [36m304 [90m1ms[0m
+[90mGET /js/libs/history/history.adapter.jquery.js [36m304 [90m2ms[0m
+[90mGET /js/atomio/initialize.js [36m304 [90m1ms[0m
+[90mGET /js/atomio/atomio.js [36m304 [90m1ms[0m
+[90mGET /js/atomio/animations.js [36m304 [90m1ms[0m
+[90mGET /js/views/index.js [36m304 [90m0ms[0m
+[90mGET /css/main.css [32m200 [90m337ms - 7.32kb[0m
+[90mGET /js/libs/jquery-2.0.3.min.map [36m304 [90m1ms[0m
+[90mGET /images/stars.png [36m304 [90m2ms[0m
+[90mHEAD / [32m200 [90m604ms - 2.17kb[0m
+[90mGET / [32m200 [90m127ms - 2.17kb[0m
+[90mGET /css/features/animations.css [32m200 [90m295ms - 1.38kb[0m
+[90mGET /js/libs/jquery/jquery.easing.1.3.js [32m200 [90m8ms - 7.91kb[0m
+[90mGET /js/libs/jquery/jquery.browser.mobile.js [32m200 [90m8ms - 4.78kb[0m
+[90mGET /js/libs/jquery-2.0.3.min.js [32m200 [90m9ms - 81.65kb[0m
+[90mGET /js/libs/browser.min.js [32m200 [90m7ms - 2.12kb[0m
+[90mGET /js/libs/history.js [32m200 [90m4ms - 13.91kb[0m
+[90mGET /css/main.css [32m200 [90m305ms - 8.1kb[0m
+[90mGET /js/libs/history/history.html4.js [32m200 [90m4ms - 3.85kb[0m
+[90mGET /js/libs/history/history.adapter.jquery.js [32m200 [90m3ms - 433b[0m
+[90mGET /js/atomio/initialize.js [32m200 [90m2ms - 2.3kb[0m
+[90mGET /js/atomio/atomio.js [32m200 [90m2ms - 8.23kb[0m
+[90mGET /js/atomio/animations.js [32m200 [90m2ms - 612b[0m
+[90mGET /images/stars.png [32m200 [90m2ms - 90.71kb[0m
+[90mGET /js/views/index.js [32m200 [90m2ms - 7.31kb[0m
+[90mGET /favicon.ico [33m404 [90m3ms[0m
+[90mHEAD / [32m200 [90m1510ms - 2.17kb[0m
+[90mGET / [32m200 [90m266ms - 2.17kb[0m
+[90mGET /css/features/animations.css [32m200 [90m1078ms - 1.38kb[0m
+[90mGET /js/libs/browser.min.js [32m200 [90m1070ms - 2.12kb[0m
+[90mGET /js/libs/jquery/jquery.browser.mobile.js [32m200 [90m1073ms - 4.78kb[0m
+[90mGET /js/libs/jquery/jquery.easing.1.3.js [32m200 [90m1074ms - 7.91kb[0m
+[90mGET /js/libs/jquery-2.0.3.min.js [32m200 [90m1080ms - 81.65kb[0m
+[90mGET /js/libs/history.js [32m200 [90m21ms - 13.91kb[0m
+[90mGET /js/libs/history/history.html4.js [32m200 [90m13ms - 3.85kb[0m
+[90mGET /js/atomio/initialize.js [32m200 [90m12ms - 2.3kb[0m
+[90mGET /js/libs/history/history.adapter.jquery.js [32m200 [90m14ms - 433b[0m
+[90mGET /css/main.css [32m200 [90m1119ms - 8.1kb[0m
+[90mGET /js/atomio/atomio.js [32m200 [90m6ms - 8.23kb[0m
+[90mGET /js/atomio/animations.js [32m200 [90m6ms - 612b[0m
+[90mGET /images/stars.png [32m200 [90m8ms - 90.71kb[0m
+[90mGET /js/views/index.js [32m200 [90m5ms - 7.31kb[0m
+[90mGET /favicon.ico [33m404 [90m18ms[0m
+init /input
+session undefined
+ ls
+[90mPOST /input [32m200 [90m60ms - 193b[0m
+init /input
+session undefined
+ ls -la
+[90mPOST /input [32m200 [90m37ms - 924b[0m
+init /input
+session undefined
+ ls -la
+[90mPOST /input [32m200 [90m34ms - 924b[0m
+[90mGET /js/libs/jquery-2.0.3.min.map [32m200 [90m6ms - 123.63kb[0m
+init /input
+session undefined
+ ls -la
+[90mPOST /input [32m200 [90m41ms - 924b[0m
+init /input
+session undefined
+ ls -la
+[90mPOST /input [32m200 [90m36ms - 924b[0m
+init /input
+session undefined
+ ls -la
+[90mPOST /input [32m200 [90m26ms - 924b[0m
+[90mGET / [32m200 [90m320ms - 2.17kb[0m
+[90mGET /js/libs/jquery/jquery.easing.1.3.js [32m200 [90m19ms - 7.91kb[0m
+[90mGET /js/libs/jquery/jquery.browser.mobile.js [32m200 [90m20ms - 4.78kb[0m
+[90mGET /js/libs/browser.min.js [32m200 [90m19ms - 2.12kb[0m
+[90mGET /css/features/animations.css [32m200 [90m23ms - 1.38kb[0m
+[90mGET /js/libs/jquery-2.0.3.min.js [32m200 [90m35ms - 81.65kb[0m
+[90mGET /css/main.css [32m200 [90m476ms - 8.11kb[0m
+[90mGET /js/libs/history.js [32m200 [90m3ms - 13.91kb[0m
+[90mGET /js/libs/history/history.html4.js [32m200 [90m9ms - 3.85kb[0m
+[90mGET /js/libs/history/history.adapter.jquery.js [32m200 [90m8ms - 433b[0m
+[90mGET /js/atomio/initialize.js [32m200 [90m7ms - 2.3kb[0m
+[90mGET /js/atomio/atomio.js [32m200 [90m6ms - 8.23kb[0m
+[90mGET /js/atomio/animations.js [32m200 [90m7ms - 612b[0m
+[90mGET /images/stars.png [36m304 [90m3ms[0m
+[90mGET /js/libs/jquery-2.0.3.min.map [36m304 [90m2ms[0m
+[90mGET /js/views/index.js [32m200 [90m5ms - 7.33kb[0m
+init /input
+session undefined
+ ls -la
+[90mPOST /input [32m200 [90m47ms - 924b[0m
+[90mGET / [32m200 [90m250ms - 2.17kb[0m
+[90mGET /js/libs/jquery/jquery.easing.1.3.js [32m200 [90m14ms - 7.91kb[0m
+[90mGET /js/libs/jquery/jquery.browser.mobile.js [32m200 [90m13ms - 4.78kb[0m
+[90mGET /js/libs/browser.min.js [32m200 [90m13ms - 2.12kb[0m
+[90mGET /css/features/animations.css [32m200 [90m16ms - 1.38kb[0m
+[90mGET /js/libs/jquery-2.0.3.min.js [32m200 [90m16ms - 81.65kb[0m
+[90mGET /css/main.css [32m200 [90m470ms - 8.18kb[0m
+[90mGET /js/libs/history.js [32m200 [90m16ms - 13.91kb[0m
+[90mGET /js/libs/history/history.html4.js [32m200 [90m16ms - 3.85kb[0m
+[90mGET /js/libs/history/history.adapter.jquery.js [32m200 [90m14ms - 433b[0m
+[90mGET /js/atomio/initialize.js [32m200 [90m13ms - 2.3kb[0m
+[90mGET /js/atomio/atomio.js [32m200 [90m7ms - 8.23kb[0m
+[90mGET /js/atomio/animations.js [32m200 [90m5ms - 612b[0m
+[90mGET /images/stars.png [36m304 [90m1ms[0m
+[90mGET /js/libs/jquery-2.0.3.min.map [36m304 [90m3ms[0m
+[90mGET /js/views/index.js [32m200 [90m8ms - 7.33kb[0m
+init /input
+session undefined
+ ls -la
+[90mPOST /input [32m200 [90m57ms - 924b[0m
+init /input
+session undefined
+ ls -l
+[90mPOST /input [32m200 [90m39ms - 833b[0m
